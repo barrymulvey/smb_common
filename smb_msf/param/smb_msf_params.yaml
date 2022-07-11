@@ -70,6 +70,6 @@ pose_sensor/init/q_ic/w: 0.707
 pose_sensor/init/q_ic/x: 0.0
 pose_sensor/init/q_ic/y: 0.0
 pose_sensor/init/q_ic/z: 0.707
-pose_sensor/init/p_ic/x: -0.251 
+pose_sensor/init/p_ic/x: -0.251  
 pose_sensor/init/p_ic/y: 0.024
 pose_sensor/init/p_ic/z: 0.255
